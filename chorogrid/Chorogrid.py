@@ -10,6 +10,7 @@ import re
 import sys
 from math import sqrt
 from IPython.display import SVG, display
+import functools
 
 class Chorogrid(object):
     """ An object which makes choropleth grids, instantiated with:
@@ -436,17 +437,21 @@ class Chorogrid(object):
                                                  'spacing_dict', kwargs) 
         font_colors = self._determine_font_colors(kwargs)
         font_style = self._dict2style(font_dict)
+        x_min = self.df[x_column].min()
+        x_max = self.df[x_column].max()
+        y_min = self.df[y_column].min()
+        y_max = self.df[y_column].max()
         total_width = (spacing_dict['margin_left'] + 
-                       (self.df[x_column].max() + 1) * 
+                       (x_max - x_min + 1) * 
                        spacing_dict['cell_width'] + 
-                       self.df[x_column].max() *
+                       (x_max - x_min) *
                        spacing_dict['gutter'] + 
                        spacing_dict['margin_right'])
         total_height = (spacing_dict['margin_top'] + 
-                        (self.df[y_column].max() + 1) *
+                        (y_max - y_min + 1) *
                         spacing_dict['cell_width'] + 
-                        self.df[x_column].max() * 
-                        spacing_dict['gutter'] + 
+                        (y_max - y_min) * 
+                        spacing_dict['gutter'] +    
                         spacing_dict['margin_bottom'])
         self._make_svg_top(total_width, total_height)
         if spacing_dict['roundedness'] > 0:
@@ -454,14 +459,14 @@ class Chorogrid(object):
         else:
             roundxy = 0
         for i, id_ in enumerate(self.df[self.id_column]):
-            if id_ in self.ids:
+            if id_ in self.ids: 
                 this_color = self.colors[self.ids.index(id_)]
                 this_font_color = font_colors[self.ids.index(id_)]
             else:
                 this_color = spacing_dict['missing_color']
                 this_font_color = spacing_dict['missing_font_color']
-            across = self.df[x_column].iloc[i]
-            down = self.df[y_column].iloc[i]
+            across = self.df[x_column].iloc[i] - x_min
+            down = self.df[y_column].iloc[i] - y_min
             x = (spacing_dict['margin_left'] + 
                  across * (spacing_dict['cell_width'] + 
                  spacing_dict['gutter']))
@@ -725,7 +730,8 @@ class Chorogrid(object):
                 x = (spacing_dict['margin_left'] + 
                      x_offset + across * 0.75 * (w + spacing_dict['gutter']))
                 y = (spacing_dict['margin_top'] + 
-                    y_offset + down * (sqrt(3) / 2 * w + spacing_dict['gutter']))
+                    y_offset + down * (sqrt(3) /
+                    2 * w + spacing_dict['gutter']))
        
             polystyle = ("stroke:{0};stroke-miterlimit:4;stroke-opacity:1;"
                          "stroke-dasharray:none;fill:{1};stroke-width:"
@@ -975,12 +981,20 @@ class Chorogrid(object):
                                                  'spacing_dict', kwargs)
         font_colors = self._determine_font_colors(kwargs)
         font_style = self._dict2style(font_dict)
+
+        minmax_contour = self.df[contour_column].iloc[0]
+        minmax_path = self._calc_multisquare(0,0,1, minmax_contour)
+        moves_list = re.findall("(L([-]?\d+) ([-]?\d+))+", minmax_path)
+        (_, x_min, _) = functools.reduce(lambda x, y: ['', min(int(x[1]), int(y[1])), ''], moves_list)
+        (_, x_max, _) = functools.reduce(lambda x, y: ['', max(int(x[1]), int(y[1])), ''], moves_list)
+        (_, _, y_min) = functools.reduce(lambda x, y: ['', '', min(int(x[2]), int(y[2]))], moves_list)
+        (_, _, y_max) = functools.reduce(lambda x, y: ['', '', max(int(x[2]), int(y[2]))], moves_list)
         total_width = (spacing_dict['margin_left'] + 
-                       (self.df[x_column].max()+1) * 
+                       (x_max - x_min + 1) * 
                        spacing_dict['cell_width'] + 
                        spacing_dict['margin_right'])
         total_height = (spacing_dict['margin_top'] + 
-                        (self.df[y_column].max()+1) *
+                        (y_max - y_min + 1) *
                         spacing_dict['cell_width'] + 
                         spacing_dict['margin_bottom'])
         self._make_svg_top(total_width, total_height)
@@ -992,8 +1006,8 @@ class Chorogrid(object):
             else:
                 this_color = spacing_dict['missing_color']
                 this_font_color = spacing_dict['missing_font_color']
-            across = self.df[x_column].iloc[i]
-            down = self.df[y_column].iloc[i]
+            across = self.df[x_column].iloc[i] - self.df[x_column].min() - x_min
+            down    = self.df[y_column].iloc[i] - self.df[y_column].min() - y_min
             contour = self.df[contour_column].iloc[i]
             label_off_x = self.df[x_label_offset_column].iloc[i]
             label_off_y = self.df[y_label_offset_column].iloc[i]
