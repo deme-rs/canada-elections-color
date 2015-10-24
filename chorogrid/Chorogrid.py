@@ -8,6 +8,7 @@ ET.register_namespace('x', XHTML)
 import pandas as pd
 import re
 import sys
+import functools
 from math import sqrt
 from IPython.display import SVG, display
 import functools
@@ -441,6 +442,7 @@ class Chorogrid(object):
         x_max = self.df[x_column].max()
         y_min = self.df[y_column].min()
         y_max = self.df[y_column].max()
+        
         total_width = (spacing_dict['margin_left'] + 
                        (x_max - x_min + 1) * 
                        spacing_dict['cell_width'] + 
@@ -982,13 +984,23 @@ class Chorogrid(object):
         font_colors = self._determine_font_colors(kwargs)
         font_style = self._dict2style(font_dict)
 
-        minmax_contour = self.df[contour_column].iloc[0]
-        minmax_path = self._calc_multisquare(0,0,1, minmax_contour)
-        moves_list = re.findall("(L([-]?\d+) ([-]?\d+))+", minmax_path)
-        (_, x_min, _) = functools.reduce(lambda x, y: ['', min(int(x[1]), int(y[1])), ''], moves_list)
-        (_, x_max, _) = functools.reduce(lambda x, y: ['', max(int(x[1]), int(y[1])), ''], moves_list)
-        (_, _, y_min) = functools.reduce(lambda x, y: ['', '', min(int(x[2]), int(y[2]))], moves_list)
-        (_, _, y_max) = functools.reduce(lambda x, y: ['', '', max(int(x[2]), int(y[2]))], moves_list)
+        def determine_min_max_from_path(row):
+            index, data = row
+            contour = data[contour_column]
+            start_x = data[x_column]
+            start_y = data[y_column]
+            path = self._calc_multisquare(0, 0, 1, contour)
+            moves_list_rel = re.findall("(L([-]?\d+) ([-]?\d+))+", path)
+            moves_list = list(map(lambda x: [int(x[1]) + start_x, int(x[2]) + start_y], moves_list_rel))
+            (x_min, y_min) = functools.reduce(lambda x, y: (min(x[0], y[0]), min(x[1], y[1])), moves_list)
+            (x_max, y_max) = functools.reduce(lambda x, y: (max(x[0], y[0]), max(x[1], y[1])), moves_list)
+            return [x_min, x_max, y_min, y_max]
+
+        results = map(determine_min_max_from_path, self.df.iterrows())
+
+        (x_min, x_max, y_min, y_max) = functools.reduce(lambda x, y: (min(x[0], y[0]), max(x[1], y[1]), 
+                             min(x[2], y[2]), max(x[3], y[3]), ), results)        
+        
         total_width = (spacing_dict['margin_left'] + 
                        (x_max - x_min + 1) * 
                        spacing_dict['cell_width'] + 
@@ -1006,8 +1018,8 @@ class Chorogrid(object):
             else:
                 this_color = spacing_dict['missing_color']
                 this_font_color = spacing_dict['missing_font_color']
-            across = self.df[x_column].iloc[i] - self.df[x_column].min() - x_min
-            down    = self.df[y_column].iloc[i] - self.df[y_column].min() - y_min
+            across = self.df[x_column].iloc[i] - x_min
+            down    = self.df[y_column].iloc[i] - y_min
             contour = self.df[contour_column].iloc[i]
             label_off_x = self.df[x_label_offset_column].iloc[i]
             label_off_y = self.df[y_label_offset_column].iloc[i]

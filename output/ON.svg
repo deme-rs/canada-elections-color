@@ -1,614 +1,614 @@
-<svg xmlns:x="http://www.w3.org/1999/xhtml" height="544" version="1.1" width="681" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns:x="http://www.w3.org/1999/xhtml" height="544" version="1.1" width="760" xmlns="http://www.w3.org/2000/svg">
 <rect height="30" id="rectKenora" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="60" />
-<foreignObject height="27" id="textKenora" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="63">
+<foreignObject height="27" id="textKenora" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="63">
 <x:p>
 Kenora</x:p>
 </foreignObject>
 <rect height="30" id="rectKitchener&#8212;Conestoga" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="308" />
-<foreignObject height="27" id="textKitchener&#8212;Conestoga" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="311">
+<foreignObject height="27" id="textKitchener&#8212;Conestoga" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="311">
 <x:p>
 Kitchener-Conestoga</x:p>
 </foreignObject>
 <rect height="30" id="rectSarnia&#8212;Lambton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="432" />
-<foreignObject height="27" id="textSarnia&#8212;Lambton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="435">
+<foreignObject height="27" id="textSarnia&#8212;Lambton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="435">
 <x:p>
 Sarnia-Lambton</x:p>
 </foreignObject>
 <rect height="30" id="rectThunder Bay&#8212;Rainy River" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="60" />
-<foreignObject height="27" id="textThunder Bay&#8212;Rainy River" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="63">
+<foreignObject height="27" id="textThunder Bay&#8212;Rainy River" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="63">
 <x:p>
 Thunder Bay-Rainy River</x:p>
 </foreignObject>
 <rect height="30" id="rectWindsor West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="463" />
-<foreignObject height="27" id="textWindsor West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="466">
+<foreignObject height="27" id="textWindsor West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="466">
 <x:p>
 Windsor West</x:p>
 </foreignObject>
 <rect height="30" id="rectLondon North Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="370" />
-<foreignObject height="27" id="textLondon North Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="373">
+<foreignObject height="27" id="textLondon North Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="373">
 <x:p>
 London North Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectPerth&#8212;Wellington" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="277" />
-<foreignObject height="27" id="textPerth&#8212;Wellington" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="280">
+<foreignObject height="27" id="textPerth&#8212;Wellington" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="280">
 <x:p>
 Perth-Wellington</x:p>
 </foreignObject>
 <rect height="30" id="rectSault Ste. Marie" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="91" />
-<foreignObject height="27" id="textSault Ste. Marie" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="94">
+<foreignObject height="27" id="textSault Ste. Marie" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="94">
 <x:p>
 Sault Ste. Marie</x:p>
 </foreignObject>
 <rect height="30" id="rectThunder Bay&#8212;Superior North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="60" />
-<foreignObject height="27" id="textThunder Bay&#8212;Superior North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="63">
+<foreignObject height="27" id="textThunder Bay&#8212;Superior North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="63">
 <x:p>
 Thunder Bay-Superior North</x:p>
 </foreignObject>
 <rect height="30" id="rectTimmins&#8212;James Bay" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="60" />
-<foreignObject height="27" id="textTimmins&#8212;James Bay" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="63">
+<foreignObject height="27" id="textTimmins&#8212;James Bay" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="63">
 <x:p>
 Timmins-James Bay</x:p>
 </foreignObject>
 <rect height="30" id="rectWaterloo" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="339" />
-<foreignObject height="27" id="textWaterloo" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="342">
+<foreignObject height="27" id="textWaterloo" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="342">
 <x:p>
 Waterloo</x:p>
 </foreignObject>
 <rect height="30" id="rectWellington&#8212;Halton Hills" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="184" />
-<foreignObject height="27" id="textWellington&#8212;Halton Hills" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="187">
+<foreignObject height="27" id="textWellington&#8212;Halton Hills" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="187">
 <x:p>
 Wellington-Halton Hills</x:p>
 </foreignObject>
 <rect height="30" id="rectWindsor&#8212;Tecumseh" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="463" />
-<foreignObject height="27" id="textWindsor&#8212;Tecumseh" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="466">
+<foreignObject height="27" id="textWindsor&#8212;Tecumseh" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="466">
 <x:p>
 Windsor-Tecumseh</x:p>
 </foreignObject>
 <rect height="30" id="rectAlgoma&#8212;Manitoulin&#8212;Kapuskasing" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="60" />
-<foreignObject height="27" id="textAlgoma&#8212;Manitoulin&#8212;Kapuskasing" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="63">
+<foreignObject height="27" id="textAlgoma&#8212;Manitoulin&#8212;Kapuskasing" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="63">
 <x:p>
 Algoma-Manitoulin-Kapuskasing</x:p>
 </foreignObject>
 <rect height="30" id="rectBrampton Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="246" />
-<foreignObject height="27" id="textBrampton Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="249">
+<foreignObject height="27" id="textBrampton Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="249">
 <x:p>
 Brampton Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectBruce&#8212;Grey&#8212;Owen Sound" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="153" />
-<foreignObject height="27" id="textBruce&#8212;Grey&#8212;Owen Sound" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="156">
+<foreignObject height="27" id="textBruce&#8212;Grey&#8212;Owen Sound" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="156">
 <x:p>
 Bruce-Grey-Owen Sound</x:p>
 </foreignObject>
 <rect height="30" id="rectEssex" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="494" />
-<foreignObject height="27" id="textEssex" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="497">
+<foreignObject height="27" id="textEssex" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="497">
 <x:p>
 Essex</x:p>
 </foreignObject>
 <rect height="30" id="rectGuelph" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="215" />
-<foreignObject height="27" id="textGuelph" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="218">
+<foreignObject height="27" id="textGuelph" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="218">
 <x:p>
 Guelph</x:p>
 </foreignObject>
 <rect height="30" id="rectHuron&#8212;Bruce" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="246" />
-<foreignObject height="27" id="textHuron&#8212;Bruce" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="249">
+<foreignObject height="27" id="textHuron&#8212;Bruce" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="249">
 <x:p>
 Huron-Bruce</x:p>
 </foreignObject>
 <rect height="30" id="rectKitchener Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="339" />
-<foreignObject height="27" id="textKitchener Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="342">
+<foreignObject height="27" id="textKitchener Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="342">
 <x:p>
 Kitchener Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectLambton&#8212;Kent&#8212;Middlesex" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="370" />
-<foreignObject height="27" id="textLambton&#8212;Kent&#8212;Middlesex" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="373">
+<foreignObject height="27" id="textLambton&#8212;Kent&#8212;Middlesex" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="373">
 <x:p>
 Lambton-Kent-Middlesex</x:p>
 </foreignObject>
 <rect height="30" id="rectLondon West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="401" />
-<foreignObject height="27" id="textLondon West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="404">
+<foreignObject height="27" id="textLondon West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="404">
 <x:p>
 London West</x:p>
 </foreignObject>
 <rect height="30" id="rectSudbury" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="91" />
-<foreignObject height="27" id="textSudbury" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="94">
+<foreignObject height="27" id="textSudbury" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="94">
 <x:p>
 Sudbury</x:p>
 </foreignObject>
 <rect height="30" id="rectBrampton North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="215" />
-<foreignObject height="27" id="textBrampton North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="218">
+<foreignObject height="27" id="textBrampton North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="218">
 <x:p>
 Brampton North</x:p>
 </foreignObject>
 <rect height="30" id="rectBrampton South" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="246" />
-<foreignObject height="27" id="textBrampton South" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="249">
+<foreignObject height="27" id="textBrampton South" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="249">
 <x:p>
 Brampton South</x:p>
 </foreignObject>
 <rect height="30" id="rectBrampton West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="215" />
-<foreignObject height="27" id="textBrampton West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="218">
+<foreignObject height="27" id="textBrampton West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="218">
 <x:p>
 Brampton West</x:p>
 </foreignObject>
 <rect height="30" id="rectChatham-Kent&#8212;Leamington" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="494" />
-<foreignObject height="27" id="textChatham-Kent&#8212;Leamington" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="497">
+<foreignObject height="27" id="textChatham-Kent&#8212;Leamington" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="497">
 <x:p>
 Chatham-Kent-Leamington</x:p>
 </foreignObject>
 <rect height="30" id="rectDufferin&#8212;Caledon" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="184" />
-<foreignObject height="27" id="textDufferin&#8212;Caledon" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="187">
+<foreignObject height="27" id="textDufferin&#8212;Caledon" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="187">
 <x:p>
 Dufferin-Caledon</x:p>
 </foreignObject>
 <rect height="30" id="rectLondon&#8212;Fanshawe" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="432" />
-<foreignObject height="27" id="textLondon&#8212;Fanshawe" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="435">
+<foreignObject height="27" id="textLondon&#8212;Fanshawe" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="435">
 <x:p>
 London-Fanshawe</x:p>
 </foreignObject>
 <rect height="30" id="rectMilton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="370" />
-<foreignObject height="27" id="textMilton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="373">
+<foreignObject height="27" id="textMilton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="373">
 <x:p>
 Milton</x:p>
 </foreignObject>
 <rect height="30" id="rectOxford" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="401" />
-<foreignObject height="27" id="textOxford" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="404">
+<foreignObject height="27" id="textOxford" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="404">
 <x:p>
 Oxford</x:p>
 </foreignObject>
 <rect height="30" id="rectSimcoe&#8212;Grey" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="153" />
-<foreignObject height="27" id="textSimcoe&#8212;Grey" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="156">
+<foreignObject height="27" id="textSimcoe&#8212;Grey" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="156">
 <x:p>
 Simcoe-Grey</x:p>
 </foreignObject>
 <rect height="30" id="rectSimcoe North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="153" />
-<foreignObject height="27" id="textSimcoe North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="156">
+<foreignObject height="27" id="textSimcoe North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="156">
 <x:p>
 Simcoe North</x:p>
 </foreignObject>
 <rect height="30" id="rectBarrie&#8212;Springwater&#8212;Oro-Medonte" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="153" />
-<foreignObject height="27" id="textBarrie&#8212;Springwater&#8212;Oro-Medonte" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="156">
+<foreignObject height="27" id="textBarrie&#8212;Springwater&#8212;Oro-Medonte" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="156">
 <x:p>
 Barrie-Springwater-Oro-Medonte</x:p>
 </foreignObject>
 <rect height="30" id="rectBrampton East" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="277" />
-<foreignObject height="27" id="textBrampton East" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="280">
+<foreignObject height="27" id="textBrampton East" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="280">
 <x:p>
 Brampton East</x:p>
 </foreignObject>
 <rect height="30" id="rectCambridge" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="401" />
-<foreignObject height="27" id="textCambridge" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="404">
+<foreignObject height="27" id="textCambridge" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="404">
 <x:p>
 Cambridge</x:p>
 </foreignObject>
 <rect height="30" id="rectElgin&#8212;Middlesex&#8212;London" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="463" />
-<foreignObject height="27" id="textElgin&#8212;Middlesex&#8212;London" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="466">
+<foreignObject height="27" id="textElgin&#8212;Middlesex&#8212;London" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="466">
 <x:p>
 Elgin-Middlesex-London</x:p>
 </foreignObject>
 <rect height="30" id="rectKing&#8212;Vaughan" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="184" />
-<foreignObject height="27" id="textKing&#8212;Vaughan" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="187">
+<foreignObject height="27" id="textKing&#8212;Vaughan" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="187">
 <x:p>
 King-Vaughan</x:p>
 </foreignObject>
 <rect height="30" id="rectKitchener South&#8212;Hespeler" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="370" />
-<foreignObject height="27" id="textKitchener South&#8212;Hespeler" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="373">
+<foreignObject height="27" id="textKitchener South&#8212;Hespeler" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="373">
 <x:p>
 Kitchener South-Hespeler</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="339" />
-<foreignObject height="27" id="textMississauga Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="342">
+<foreignObject height="27" id="textMississauga Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="342">
 <x:p>
 Mississauga Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga&#8212;Malton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="308" />
-<foreignObject height="27" id="textMississauga&#8212;Malton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="311">
+<foreignObject height="27" id="textMississauga&#8212;Malton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="311">
 <x:p>
 Mississauga-Malton</x:p>
 </foreignObject>
 <rect height="30" id="rectNickel Belt" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="91" />
-<foreignObject height="27" id="textNickel Belt" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="94">
+<foreignObject height="27" id="textNickel Belt" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="94">
 <x:p>
 Nickel Belt</x:p>
 </foreignObject>
 <rect height="30" id="rectVaughan&#8212;Woodbridge" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="184" />
-<foreignObject height="27" id="textVaughan&#8212;Woodbridge" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="187">
+<foreignObject height="27" id="textVaughan&#8212;Woodbridge" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="187">
 <x:p>
 Vaughan-Woodbridge</x:p>
 </foreignObject>
 <rect height="30" id="rectBarrie&#8212;Innisfil" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="153" />
-<foreignObject height="27" id="textBarrie&#8212;Innisfil" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="156">
+<foreignObject height="27" id="textBarrie&#8212;Innisfil" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="156">
 <x:p>
 Barrie-Innisfil</x:p>
 </foreignObject>
 <rect height="30" id="rectBrantford&#8212;Brant" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="432" />
-<foreignObject height="27" id="textBrantford&#8212;Brant" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="435">
+<foreignObject height="27" id="textBrantford&#8212;Brant" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="435">
 <x:p>
 Brantford-Brant</x:p>
 </foreignObject>
 <rect height="30" id="rectBurlington" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="401" />
-<foreignObject height="27" id="textBurlington" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="404">
+<foreignObject height="27" id="textBurlington" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="404">
 <x:p>
 Burlington</x:p>
 </foreignObject>
 <rect height="30" id="rectEtobicoke North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="215" />
-<foreignObject height="27" id="textEtobicoke North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="218">
+<foreignObject height="27" id="textEtobicoke North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="218">
 <x:p>
 Etobicoke North</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga&#8212;Streetsville" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="277" />
-<foreignObject height="27" id="textMississauga&#8212;Streetsville" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="280">
+<foreignObject height="27" id="textMississauga&#8212;Streetsville" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="280">
 <x:p>
 Mississauga-Streetsville</x:p>
 </foreignObject>
 <rect height="30" id="rectNewmarket&#8212;Aurora" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="402" y="184" />
-<foreignObject height="27" id="textNewmarket&#8212;Aurora" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="404" y="187">
+<foreignObject height="27" id="textNewmarket&#8212;Aurora" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="404" y="187">
 <x:p>
 Newmarket-Aurora</x:p>
 </foreignObject>
 <rect height="30" id="rectOakville North&#8212;Burlington" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="370" />
-<foreignObject height="27" id="textOakville North&#8212;Burlington" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="373">
+<foreignObject height="27" id="textOakville North&#8212;Burlington" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="373">
 <x:p>
 Oakville North-Burlington</x:p>
 </foreignObject>
 <rect height="30" id="rectParry Sound&#8212;Muskoka" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="122" />
-<foreignObject height="27" id="textParry Sound&#8212;Muskoka" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="125">
+<foreignObject height="27" id="textParry Sound&#8212;Muskoka" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="125">
 <x:p>
 Parry Sound-Muskoka</x:p>
 </foreignObject>
 <rect height="30" id="rectThornhill" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="184" />
-<foreignObject height="27" id="textThornhill" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="187">
+<foreignObject height="27" id="textThornhill" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="187">
 <x:p>
 Thornhill</x:p>
 </foreignObject>
 <rect height="30" id="rectHumber River&#8212;Black Creek" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="215" />
-<foreignObject height="27" id="textHumber River&#8212;Black Creek" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="218">
+<foreignObject height="27" id="textHumber River&#8212;Black Creek" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="218">
 <x:p>
 Humber River-Black Creek</x:p>
 </foreignObject>
 <rect height="30" id="rectAurora&#8212;Oak Ridges&#8212;Richmond Hill" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="184" />
-<foreignObject height="27" id="textAurora&#8212;Oak Ridges&#8212;Richmond Hill" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="187">
+<foreignObject height="27" id="textAurora&#8212;Oak Ridges&#8212;Richmond Hill" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="187">
 <x:p>
 Aurora-Oak Ridges-Richmond Hill</x:p>
 </foreignObject>
 <rect height="30" id="rectFlamborough&#8212;Glanbrook" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="432" />
-<foreignObject height="27" id="textFlamborough&#8212;Glanbrook" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="435">
+<foreignObject height="27" id="textFlamborough&#8212;Glanbrook" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="435">
 <x:p>
 Flamborough-Glanbrook</x:p>
 </foreignObject>
 <rect height="30" id="rectHamilton Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="432" />
-<foreignObject height="27" id="textHamilton Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="435">
+<foreignObject height="27" id="textHamilton Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="435">
 <x:p>
 Hamilton Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectMarkham&#8212;Stouffville" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="495" y="184" />
-<foreignObject height="27" id="textMarkham&#8212;Stouffville" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="497" y="187">
+<foreignObject height="27" id="textMarkham&#8212;Stouffville" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="497" y="187">
 <x:p>
 Markham-Stouffville</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga&#8212;Erin Mills" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="308" />
-<foreignObject height="27" id="textMississauga&#8212;Erin Mills" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="311">
+<foreignObject height="27" id="textMississauga&#8212;Erin Mills" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="311">
 <x:p>
 Mississauga-Erin Mills</x:p>
 </foreignObject>
 <rect height="30" id="rectOakville" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="401" />
-<foreignObject height="27" id="textOakville" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="404">
+<foreignObject height="27" id="textOakville" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="404">
 <x:p>
 Oakville</x:p>
 </foreignObject>
 <rect height="30" id="rectRichmond Hill" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="184" />
-<foreignObject height="27" id="textRichmond Hill" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="187">
+<foreignObject height="27" id="textRichmond Hill" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="187">
 <x:p>
 Richmond Hill</x:p>
 </foreignObject>
 <rect height="30" id="rectYork Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="215" />
-<foreignObject height="27" id="textYork Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="218">
+<foreignObject height="27" id="textYork Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="218">
 <x:p>
 York Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectYork&#8212;Simcoe" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="153" />
-<foreignObject height="27" id="textYork&#8212;Simcoe" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="156">
+<foreignObject height="27" id="textYork&#8212;Simcoe" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="156">
 <x:p>
 York-Simcoe</x:p>
 </foreignObject>
 <rect height="30" id="rectYork South&#8212;Weston" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="277" />
-<foreignObject height="27" id="textYork South&#8212;Weston" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="280">
+<foreignObject height="27" id="textYork South&#8212;Weston" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="280">
 <x:p>
 York South-Weston</x:p>
 </foreignObject>
 <rect height="30" id="rectDon Valley North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="402" y="215" />
-<foreignObject height="27" id="textDon Valley North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="404" y="218">
+<foreignObject height="27" id="textDon Valley North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="404" y="218">
 <x:p>
 Don Valley North</x:p>
 </foreignObject>
 <rect height="30" id="rectEtobicoke Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="308" />
-<foreignObject height="27" id="textEtobicoke Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="311">
+<foreignObject height="27" id="textEtobicoke Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="311">
 <x:p>
 Etobicoke Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectHaldimand&#8212;Norfolk" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="463" />
-<foreignObject height="27" id="textHaldimand&#8212;Norfolk" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="466">
+<foreignObject height="27" id="textHaldimand&#8212;Norfolk" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="466">
 <x:p>
 Haldimand-Norfolk</x:p>
 </foreignObject>
 <rect height="30" id="rectHaliburton&#8212;Kawartha Lakes&#8212;Brock" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="402" y="153" />
-<foreignObject height="27" id="textHaliburton&#8212;Kawartha Lakes&#8212;Brock" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="404" y="156">
+<foreignObject height="27" id="textHaliburton&#8212;Kawartha Lakes&#8212;Brock" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="404" y="156">
 <x:p>
 Haliburton-Kawartha Lakes-Brock</x:p>
 </foreignObject>
 <rect height="30" id="rectMarkham&#8212;Unionville" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="464" y="184" />
-<foreignObject height="27" id="textMarkham&#8212;Unionville" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="466" y="187">
+<foreignObject height="27" id="textMarkham&#8212;Unionville" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="466" y="187">
 <x:p>
 Markham-Unionville</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga East&#8212;Cooksville" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="339" />
-<foreignObject height="27" id="textMississauga East&#8212;Cooksville" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="342">
+<foreignObject height="27" id="textMississauga East&#8212;Cooksville" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="342">
 <x:p>
 Mississauga East-Cooksville</x:p>
 </foreignObject>
 <rect height="30" id="rectMississauga&#8212;Lakeshore" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="370" />
-<foreignObject height="27" id="textMississauga&#8212;Lakeshore" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="373">
+<foreignObject height="27" id="textMississauga&#8212;Lakeshore" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="373">
 <x:p>
 Mississauga-Lakeshore</x:p>
 </foreignObject>
 <rect height="30" id="rectNipissing&#8212;Timiskaming" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="122" />
-<foreignObject height="27" id="textNipissing&#8212;Timiskaming" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="125">
+<foreignObject height="27" id="textNipissing&#8212;Timiskaming" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="125">
 <x:p>
 Nipissing-Timiskaming</x:p>
 </foreignObject>
 <rect height="30" id="rectPeterborough&#8212;Kawartha" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="433" y="153" />
-<foreignObject height="27" id="textPeterborough&#8212;Kawartha" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="435" y="156">
+<foreignObject height="27" id="textPeterborough&#8212;Kawartha" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="435" y="156">
 <x:p>
 Peterborough-Kawartha</x:p>
 </foreignObject>
 <rect height="30" id="rectWillowdale" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="215" />
-<foreignObject height="27" id="textWillowdale" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="218">
+<foreignObject height="27" id="textWillowdale" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="218">
 <x:p>
 Willowdale</x:p>
 </foreignObject>
 <rect height="30" id="rectDavenport" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="277" />
-<foreignObject height="27" id="textDavenport" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="280">
+<foreignObject height="27" id="textDavenport" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="280">
 <x:p>
 Davenport</x:p>
 </foreignObject>
 <rect height="30" id="rectDurham" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="526" y="184" />
-<foreignObject height="27" id="textDurham" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="528" y="187">
+<foreignObject height="27" id="textDurham" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="528" y="187">
 <x:p>
 Durham</x:p>
 </foreignObject>
 <rect height="30" id="rectEtobicoke&#8212;Lakeshore" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="339" />
-<foreignObject height="27" id="textEtobicoke&#8212;Lakeshore" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="342">
+<foreignObject height="27" id="textEtobicoke&#8212;Lakeshore" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="342">
 <x:p>
 Etobicoke-Lakeshore</x:p>
 </foreignObject>
 <rect height="30" id="rectHamilton Mountain" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="463" />
-<foreignObject height="27" id="textHamilton Mountain" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="466">
+<foreignObject height="27" id="textHamilton Mountain" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="466">
 <x:p>
 Hamilton Mountain</x:p>
 </foreignObject>
 <rect height="30" id="rectHamilton West&#8212;Ancaster&#8212;Dundas" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="463" />
-<foreignObject height="27" id="textHamilton West&#8212;Ancaster&#8212;Dundas" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="466">
+<foreignObject height="27" id="textHamilton West&#8212;Ancaster&#8212;Dundas" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="466">
 <x:p>
 Hamilton West-Ancaster-Dundas</x:p>
 </foreignObject>
 <rect height="30" id="rectLanark&#8212;Frontenac&#8212;Kingston" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="495" y="153" />
-<foreignObject height="27" id="textLanark&#8212;Frontenac&#8212;Kingston" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="497" y="156">
+<foreignObject height="27" id="textLanark&#8212;Frontenac&#8212;Kingston" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="497" y="156">
 <x:p>
 Lanark-Frontenac-Kingston</x:p>
 </foreignObject>
 <rect height="30" id="rectMarkham&#8212;Thornhill" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="433" y="184" />
-<foreignObject height="27" id="textMarkham&#8212;Thornhill" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="435" y="187">
+<foreignObject height="27" id="textMarkham&#8212;Thornhill" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="435" y="187">
 <x:p>
 Markham-Thornhill</x:p>
 </foreignObject>
 <rect height="30" id="rectRenfrew&#8212;Nipissing&#8212;Pembroke" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="464" y="122" />
-<foreignObject height="27" id="textRenfrew&#8212;Nipissing&#8212;Pembroke" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="466" y="125">
+<foreignObject height="27" id="textRenfrew&#8212;Nipissing&#8212;Pembroke" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="466" y="125">
 <x:p>
 Renfrew-Nipissing-Pembroke</x:p>
 </foreignObject>
 <rect height="30" id="rectToronto&#8212;St. Paul's" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="277" />
-<foreignObject height="27" id="textToronto&#8212;St. Paul's" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="280">
+<foreignObject height="27" id="textToronto&#8212;St. Paul's" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="280">
 <x:p>
 Toronto-St. Paul's</x:p>
 </foreignObject>
 <rect height="30" id="rectDon Valley West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="246" />
-<foreignObject height="27" id="textDon Valley West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="249">
+<foreignObject height="27" id="textDon Valley West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="249">
 <x:p>
 Don Valley West</x:p>
 </foreignObject>
 <rect height="30" id="rectEglinton&#8212;Lawrence" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="246" />
-<foreignObject height="27" id="textEglinton&#8212;Lawrence" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="249">
+<foreignObject height="27" id="textEglinton&#8212;Lawrence" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="249">
 <x:p>
 Eglinton-Lawrence</x:p>
 </foreignObject>
 <rect height="30" id="rectHamilton East&#8212;Stoney Creek" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="463" />
-<foreignObject height="27" id="textHamilton East&#8212;Stoney Creek" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="466">
+<foreignObject height="27" id="textHamilton East&#8212;Stoney Creek" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="466">
 <x:p>
 Hamilton East-Stoney Creek</x:p>
 </foreignObject>
 <rect height="30" id="rectHastings&#8212;Lennox and Addington" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="464" y="153" />
-<foreignObject height="27" id="textHastings&#8212;Lennox and Addington" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="466" y="156">
+<foreignObject height="27" id="textHastings&#8212;Lennox and Addington" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="466" y="156">
 <x:p>
 Hastings-Lennox and Addington</x:p>
 </foreignObject>
 <rect height="30" id="rectKanata&#8212;Carleton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="495" y="122" />
-<foreignObject height="27" id="textKanata&#8212;Carleton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="497" y="125">
+<foreignObject height="27" id="textKanata&#8212;Carleton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="497" y="125">
 <x:p>
 Kanata-Carleton</x:p>
 </foreignObject>
 <rect height="30" id="rectOttawa&#8212;Vanier" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="588" y="122" />
-<foreignObject height="27" id="textOttawa&#8212;Vanier" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="590" y="125">
+<foreignObject height="27" id="textOttawa&#8212;Vanier" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="590" y="125">
 <x:p>
 Ottawa-Vanier</x:p>
 </foreignObject>
 <rect height="30" id="rectParkdale&#8212;High Park" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="339" />
-<foreignObject height="27" id="textParkdale&#8212;High Park" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="342">
+<foreignObject height="27" id="textParkdale&#8212;High Park" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="342">
 <x:p>
 Parkdale-High Park</x:p>
 </foreignObject>
 <rect height="30" id="rectPickering&#8212;Uxbridge" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="464" y="246" />
-<foreignObject height="27" id="textPickering&#8212;Uxbridge" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="466" y="249">
+<foreignObject height="27" id="textPickering&#8212;Uxbridge" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="466" y="249">
 <x:p>
 Pickering-Uxbridge</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough&#8212;Agincourt" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="433" y="215" />
-<foreignObject height="27" id="textScarborough&#8212;Agincourt" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="435" y="218">
+<foreignObject height="27" id="textScarborough&#8212;Agincourt" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="435" y="218">
 <x:p>
 Scarborough-Agincourt</x:p>
 </foreignObject>
 <rect height="30" id="rectAjax" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="495" y="246" />
-<foreignObject height="27" id="textAjax" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="497" y="249">
+<foreignObject height="27" id="textAjax" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="497" y="249">
 <x:p>
 Ajax</x:p>
 </foreignObject>
 <rect height="30" id="rectGlengarry&#8212;Prescott&#8212;Russell" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="650" y="122" />
-<foreignObject height="27" id="textGlengarry&#8212;Prescott&#8212;Russell" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="652" y="125">
+<foreignObject height="27" id="textGlengarry&#8212;Prescott&#8212;Russell" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="652" y="125">
 <x:p>
 Glengarry-Prescott-Russell</x:p>
 </foreignObject>
 <rect height="30" id="rectNepean" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="557" y="153" />
-<foreignObject height="27" id="textNepean" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="559" y="156">
+<foreignObject height="27" id="textNepean" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="559" y="156">
 <x:p>
 Nepean</x:p>
 </foreignObject>
 <rect height="30" id="rectNiagara West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="463" />
-<foreignObject height="27" id="textNiagara West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="466">
+<foreignObject height="27" id="textNiagara West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="466">
 <x:p>
 Niagara West</x:p>
 </foreignObject>
 <rect height="30" id="rectNorthumberland&#8212;Peterborough South" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="557" y="184" />
-<foreignObject height="27" id="textNorthumberland&#8212;Peterborough South" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="559" y="187">
+<foreignObject height="27" id="textNorthumberland&#8212;Peterborough South" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="559" y="187">
 <x:p>
 Northumberland-Peterborough South</x:p>
 </foreignObject>
 <rect height="30" id="rectOttawa West&#8212;Nepean" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="526" y="122" />
-<foreignObject height="27" id="textOttawa West&#8212;Nepean" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="528" y="125">
+<foreignObject height="27" id="textOttawa West&#8212;Nepean" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="528" y="125">
 <x:p>
 Ottawa West-Nepean</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough North" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="464" y="215" />
-<foreignObject height="27" id="textScarborough North" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="466" y="218">
+<foreignObject height="27" id="textScarborough North" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="466" y="218">
 <x:p>
 Scarborough North</x:p>
 </foreignObject>
 <rect height="30" id="rectSpadina&#8212;Fort York" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="339" />
-<foreignObject height="27" id="textSpadina&#8212;Fort York" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="342">
+<foreignObject height="27" id="textSpadina&#8212;Fort York" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="342">
 <x:p>
 Spadina-Fort York</x:p>
 </foreignObject>
 <rect height="30" id="rectUniversity&#8212;Rosedale" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="309" y="308" />
-<foreignObject height="27" id="textUniversity&#8212;Rosedale" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="311" y="311">
+<foreignObject height="27" id="textUniversity&#8212;Rosedale" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="311" y="311">
 <x:p>
 University-Rosedale</x:p>
 </foreignObject>
 <rect height="30" id="rectWhitby" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="495" y="215" />
-<foreignObject height="27" id="textWhitby" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="497" y="218">
+<foreignObject height="27" id="textWhitby" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="497" y="218">
 <x:p>
 Whitby</x:p>
 </foreignObject>
 <rect height="30" id="rectDon Valley East" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="246" />
-<foreignObject height="27" id="textDon Valley East" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="249">
+<foreignObject height="27" id="textDon Valley East" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="249">
 <x:p>
 Don Valley East</x:p>
 </foreignObject>
 <rect height="30" id="rectKingston and the Islands" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="619" y="184" />
-<foreignObject height="27" id="textKingston and the Islands" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="621" y="187">
+<foreignObject height="27" id="textKingston and the Islands" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="621" y="187">
 <x:p>
 Kingston and the Islands</x:p>
 </foreignObject>
 <rect height="30" id="rectNiagara Falls" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="494" />
-<foreignObject height="27" id="textNiagara Falls" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="497">
+<foreignObject height="27" id="textNiagara Falls" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="497">
 <x:p>
 Niagara Falls</x:p>
 </foreignObject>
 <rect height="30" id="rectOttawa Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="557" y="122" />
-<foreignObject height="27" id="textOttawa Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="559" y="125">
+<foreignObject height="27" id="textOttawa Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="559" y="125">
 <x:p>
 Ottawa Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectOrl&#233;ans" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="619" y="122" />
-<foreignObject height="27" id="textOrl&#233;ans" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="621" y="125">
+<foreignObject height="27" id="textOrl&#233;ans" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="621" y="125">
 <x:p>
 Orl&#233;ans</x:p>
 </foreignObject>
 <rect height="30" id="rectOttawa South" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="588" y="153" />
-<foreignObject height="27" id="textOttawa South" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="590" y="156">
+<foreignObject height="27" id="textOttawa South" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="590" y="156">
 <x:p>
 Ottawa South</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="246" />
-<foreignObject height="27" id="textScarborough Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="249">
+<foreignObject height="27" id="textScarborough Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="249">
 <x:p>
 Scarborough Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough&#8212;Rouge Park" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="433" y="246" />
-<foreignObject height="27" id="textScarborough&#8212;Rouge Park" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="435" y="249">
+<foreignObject height="27" id="textScarborough&#8212;Rouge Park" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="435" y="249">
 <x:p>
 Scarborough-Rouge Park</x:p>
 </foreignObject>
 <rect height="30" id="rectToronto Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="340" y="308" />
-<foreignObject height="27" id="textToronto Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="342" y="311">
+<foreignObject height="27" id="textToronto Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="342" y="311">
 <x:p>
 Toronto Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectToronto&#8212;Danforth" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="308" />
-<foreignObject height="27" id="textToronto&#8212;Danforth" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="311">
+<foreignObject height="27" id="textToronto&#8212;Danforth" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="311">
 <x:p>
 Toronto-Danforth</x:p>
 </foreignObject>
 <rect height="30" id="rectBay of Qunite" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="588" y="184" />
-<foreignObject height="27" id="textBay of Qunite" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="590" y="187">
+<foreignObject height="27" id="textBay of Qunite" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="590" y="187">
 <x:p>
 Bay of Qunite</x:p>
 </foreignObject>
 <rect height="30" id="rectBeaches&#8212;East York" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="371" y="277" />
-<foreignObject height="27" id="textBeaches&#8212;East York" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="373" y="280">
+<foreignObject height="27" id="textBeaches&#8212;East York" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="373" y="280">
 <x:p>
 Beaches-East York</x:p>
 </foreignObject>
 <rect height="30" id="rectNiagara Centre" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="247" y="494" />
-<foreignObject height="27" id="textNiagara Centre" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="249" y="497">
+<foreignObject height="27" id="textNiagara Centre" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="249" y="497">
 <x:p>
 Niagara Centre</x:p>
 </foreignObject>
 <rect height="30" id="rectOshawa" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="526" y="215" />
-<foreignObject height="27" id="textOshawa" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="528" y="218">
+<foreignObject height="27" id="textOshawa" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="528" y="218">
 <x:p>
 Oshawa</x:p>
 </foreignObject>
 <rect height="30" id="rectSt. Catharines" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="278" y="463" />
-<foreignObject height="27" id="textSt. Catharines" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="280" y="466">
+<foreignObject height="27" id="textSt. Catharines" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="280" y="466">
 <x:p>
 St. Catharines</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough&#8212;Guildwood" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="402" y="246" />
-<foreignObject height="27" id="textScarborough&#8212;Guildwood" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="404" y="249">
+<foreignObject height="27" id="textScarborough&#8212;Guildwood" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="404" y="249">
 <x:p>
 Scarborough-Guildwood</x:p>
 </foreignObject>
 <rect height="30" id="rectStormont&#8212;Dundas&#8212;South Glengarry" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="650" y="153" />
-<foreignObject height="27" id="textStormont&#8212;Dundas&#8212;South Glengarry" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="652" y="156">
+<foreignObject height="27" id="textStormont&#8212;Dundas&#8212;South Glengarry" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="652" y="156">
 <x:p>
 Stormont-Dundas-South Glengarry</x:p>
 </foreignObject>
 <rect height="30" id="rectLeeds&#8212;Grenville&#8212;Thousand Islands and Rideau Lakes" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="619" y="153" />
-<foreignObject height="27" id="textLeeds&#8212;Grenville&#8212;Thousand Islands and Rideau Lakes" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="621" y="156">
+<foreignObject height="27" id="textLeeds&#8212;Grenville&#8212;Thousand Islands and Rideau Lakes" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="621" y="156">
 <x:p>
 Leeds-Grenville-Thousand Islands and Rideau Lakes</x:p>
 </foreignObject>
 <rect height="30" id="rectCarleton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="526" y="153" />
-<foreignObject height="27" id="textCarleton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="528" y="156">
+<foreignObject height="27" id="textCarleton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="528" y="156">
 <x:p>
 Carleton</x:p>
 </foreignObject>
 <rect height="30" id="rectScarborough Southwest" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="402" y="277" />
-<foreignObject height="27" id="textScarborough Southwest" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="404" y="280">
+<foreignObject height="27" id="textScarborough Southwest" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="404" y="280">
 <x:p>
 Scarborough Southwest</x:p>
 </foreignObject>
-<text id="title" style="stroke-width:1px;line-height:125%;fill:#000000;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:19" x="355.0" y="30">
+<text id="title" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:19;fill:#000000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter" x="355.0" y="30">
 ON</text>
 
 
 <path d="M185, 60 L216 60 L247 60 L278 60 L309 60 L340 60 L340 91 L371 91 L371 122 L402 122 L402 153 L433 153 L464 153 L464 122 L495 122 L526 122 L557 122 L588 122 L619 122 L650 122 L681 122 L681 153 L681 184 L650 184 L650 215 L619 215 L588 215 L557 215 L557 246 L526 246 L526 277 L495 277 L464 277 L433 277 L433 308 L402 308 L402 339 L371 339 L371 370 L340 370 L309 370 L278 370 L278 401 L247 401 L247 432 L216 432 L216 463 L247 463 L278 463 L309 463 L309 494 L309 525 L278 525 L247 525 L247 494 L216 494 L185 494 L154 494 L123 494 L123 525 L92 525 L61 525 L61 494 L30 494 L30 463 L61 463 L61 432 L92 432 L92 401 L92 370 L123 370 L154 370 L154 339 L185 339 L185 308 L185 277 L185 246 L185 215 L185 184 L216 184 L216 153 L247 153 L278 153 L309 153 L340 153 L340 122 L309 122 L278 122 L278 91 L247 91 L216 91 L185 91 L185 60 Z" id="squareON" style="stroke:#000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none;stroke-width:1" />
-<text id="textON" style="stroke-width:1px;line-height:125%;fill-opacity:0;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:12px;fill:#000000" x="386.5" y="230.0">
+<text id="textON" style="line-height:125%;font-style:normal;fill-opacity:0;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" x="386.5" y="230.0">
 ON</text>
 </svg>

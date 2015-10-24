@@ -1,178 +1,178 @@
-<svg xmlns:x="http://www.w3.org/1999/xhtml" height="358" version="1.1" width="247" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns:x="http://www.w3.org/1999/xhtml" height="358" version="1.1" width="326" xmlns="http://www.w3.org/2000/svg">
 <rect height="30" id="rectFredericton" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="246" />
-<foreignObject height="27" id="textFredericton" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="249">
+<foreignObject height="27" id="textFredericton" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="249">
 <x:p>
 Fredericton</x:p>
 </foreignObject>
 <rect height="30" id="rectMadawaska&#8212;Restigouche" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="184" />
-<foreignObject height="27" id="textMadawaska&#8212;Restigouche" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="187">
+<foreignObject height="27" id="textMadawaska&#8212;Restigouche" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="187">
 <x:p>
 Madawaska-Restigouche</x:p>
 </foreignObject>
 <rect height="30" id="rectTobique&#8212;Mactaquac" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="215" />
-<foreignObject height="27" id="textTobique&#8212;Mactaquac" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="218">
+<foreignObject height="27" id="textTobique&#8212;Mactaquac" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="218">
 <x:p>
 Tobique-Mactaquac</x:p>
 </foreignObject>
 <rect height="30" id="rectAcadie&#8212;Bathurst" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="184" />
-<foreignObject height="27" id="textAcadie&#8212;Bathurst" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="187">
+<foreignObject height="27" id="textAcadie&#8212;Bathurst" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="187">
 <x:p>
 Acadie-Bathurst</x:p>
 </foreignObject>
 <rect height="30" id="rectMiramichi&#8212;Grand Lake" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="215" />
-<foreignObject height="27" id="textMiramichi&#8212;Grand Lake" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="218">
+<foreignObject height="27" id="textMiramichi&#8212;Grand Lake" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="218">
 <x:p>
 Miramichi-Grand Lake</x:p>
 </foreignObject>
 <rect height="30" id="rectMoncton&#8212;Riverview&#8212;Dieppe" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="246" />
-<foreignObject height="27" id="textMoncton&#8212;Riverview&#8212;Dieppe" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="249">
+<foreignObject height="27" id="textMoncton&#8212;Riverview&#8212;Dieppe" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="249">
 <x:p>
 Moncton-Riverview-Dieppe</x:p>
 </foreignObject>
 <rect height="30" id="rectNew Brunswick Southwest" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="277" />
-<foreignObject height="27" id="textNew Brunswick Southwest" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="280">
+<foreignObject height="27" id="textNew Brunswick Southwest" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="280">
 <x:p>
 New Brunswick Southwest</x:p>
 </foreignObject>
 <rect height="30" id="rectBeaus&#233;jour" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="215" />
-<foreignObject height="27" id="textBeaus&#233;jour" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="218">
+<foreignObject height="27" id="textBeaus&#233;jour" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="218">
 <x:p>
 Beaus&#233;jour</x:p>
 </foreignObject>
 <rect height="30" id="rectFundy Royal" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="246" />
-<foreignObject height="27" id="textFundy Royal" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="249">
+<foreignObject height="27" id="textFundy Royal" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="249">
 <x:p>
 Fundy Royal</x:p>
 </foreignObject>
 <rect height="30" id="rectSaint John&#8212;Rothesay" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="61" y="277" />
-<foreignObject height="27" id="textSaint John&#8212;Rothesay" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="63" y="280">
+<foreignObject height="27" id="textSaint John&#8212;Rothesay" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="63" y="280">
 <x:p>
 Saint John-Rothesay</x:p>
 </foreignObject>
 <rect height="30" id="rectLabrador" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="30" y="60" />
-<foreignObject height="27" id="textLabrador" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="32" y="63">
+<foreignObject height="27" id="textLabrador" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="32" y="63">
 <x:p>
 Labrador</x:p>
 </foreignObject>
 <rect height="30" id="rectLong Range Mountains" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="60" />
-<foreignObject height="27" id="textLong Range Mountains" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="63">
+<foreignObject height="27" id="textLong Range Mountains" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="63">
 <x:p>
 Long Range Mountains</x:p>
 </foreignObject>
 <rect height="30" id="rectCoast of Bays&#8212;Central&#8212;Notre Dame" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="92" y="91" />
-<foreignObject height="27" id="textCoast of Bays&#8212;Central&#8212;Notre Dame" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="94" y="94">
+<foreignObject height="27" id="textCoast of Bays&#8212;Central&#8212;Notre Dame" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="94" y="94">
 <x:p>
 Coast of Bays-Central-Notre Dame</x:p>
 </foreignObject>
 <rect height="30" id="rectBonavista&#8212;Burin&#8212;Trinity" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="91" />
-<foreignObject height="27" id="textBonavista&#8212;Burin&#8212;Trinity" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="94">
+<foreignObject height="27" id="textBonavista&#8212;Burin&#8212;Trinity" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="94">
 <x:p>
 Bonavista-Burin-Trinity</x:p>
 </foreignObject>
 <rect height="30" id="rectAvalon" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="91" />
-<foreignObject height="27" id="textAvalon" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="94">
+<foreignObject height="27" id="textAvalon" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="94">
 <x:p>
 Avalon</x:p>
 </foreignObject>
 <rect height="30" id="rectSt. John's East" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="60" />
-<foreignObject height="27" id="textSt. John's East" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="63">
+<foreignObject height="27" id="textSt. John's East" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="63">
 <x:p>
 St. John's East</x:p>
 </foreignObject>
 <rect height="30" id="rectSt. John's South&#8212;Mount Pearl" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="91" />
-<foreignObject height="27" id="textSt. John's South&#8212;Mount Pearl" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="94">
+<foreignObject height="27" id="textSt. John's South&#8212;Mount Pearl" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="94">
 <x:p>
 St. John's South-Mount Pearl</x:p>
 </foreignObject>
 <rect height="30" id="rectWest Nova" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="308" />
-<foreignObject height="27" id="textWest Nova" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="311">
+<foreignObject height="27" id="textWest Nova" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="311">
 <x:p>
 West Nova</x:p>
 </foreignObject>
 <rect height="30" id="rectHalifax West" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="277" />
-<foreignObject height="27" id="textHalifax West" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="280">
+<foreignObject height="27" id="textHalifax West" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="280">
 <x:p>
 Halifax West</x:p>
 </foreignObject>
 <rect height="30" id="rectSouth Shore&#8212;St. Margarets" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="308" />
-<foreignObject height="27" id="textSouth Shore&#8212;St. Margarets" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="311">
+<foreignObject height="27" id="textSouth Shore&#8212;St. Margarets" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="311">
 <x:p>
 South Shore-St. Margarets</x:p>
 </foreignObject>
 <rect height="30" id="rectCumberland&#8212;Colchester" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="215" />
-<foreignObject height="27" id="textCumberland&#8212;Colchester" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="218">
+<foreignObject height="27" id="textCumberland&#8212;Colchester" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="218">
 <x:p>
 Cumberland-Colchester</x:p>
 </foreignObject>
 <rect height="30" id="rectHalifax" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="308" />
-<foreignObject height="27" id="textHalifax" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="311">
+<foreignObject height="27" id="textHalifax" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="311">
 <x:p>
 Halifax</x:p>
 </foreignObject>
 <rect height="30" id="rectKings&#8212;Hants" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="246" />
-<foreignObject height="27" id="textKings&#8212;Hants" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="249">
+<foreignObject height="27" id="textKings&#8212;Hants" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="249">
 <x:p>
 Kings-Hants</x:p>
 </foreignObject>
 <rect height="30" id="rectCentral Nova" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="215" />
-<foreignObject height="27" id="textCentral Nova" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="218">
+<foreignObject height="27" id="textCentral Nova" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="218">
 <x:p>
 Central Nova</x:p>
 </foreignObject>
 <rect height="30" id="rectDartmouth&#8212;Cole Harbour" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="277" />
-<foreignObject height="27" id="textDartmouth&#8212;Cole Harbour" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="280">
+<foreignObject height="27" id="textDartmouth&#8212;Cole Harbour" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="280">
 <x:p>
 Dartmouth-Cole Harbour</x:p>
 </foreignObject>
 <rect height="30" id="rectSackville&#8212;Preston&#8212;Chezzetcook" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="246" />
-<foreignObject height="27" id="textSackville&#8212;Preston&#8212;Chezzetcook" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="249">
+<foreignObject height="27" id="textSackville&#8212;Preston&#8212;Chezzetcook" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="249">
 <x:p>
 Sackville-Preston-Chezzetcook</x:p>
 </foreignObject>
 <rect height="30" id="rectCape Breton&#8212;Canso" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="215" />
-<foreignObject height="27" id="textCape Breton&#8212;Canso" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="218">
+<foreignObject height="27" id="textCape Breton&#8212;Canso" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="218">
 <x:p>
 Cape Breton-Canso</x:p>
 </foreignObject>
 <rect height="30" id="rectSydney&#8212;Victoria" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="215" />
-<foreignObject height="27" id="textSydney&#8212;Victoria" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="218">
+<foreignObject height="27" id="textSydney&#8212;Victoria" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="218">
 <x:p>
 Sydney-Victoria</x:p>
 </foreignObject>
 <rect height="30" id="rectEgmont" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="123" y="153" />
-<foreignObject height="27" id="textEgmont" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="125" y="156">
+<foreignObject height="27" id="textEgmont" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="125" y="156">
 <x:p>
 Egmont</x:p>
 </foreignObject>
 <rect height="30" id="rectMalpeque" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="154" y="153" />
-<foreignObject height="27" id="textMalpeque" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="156" y="156">
+<foreignObject height="27" id="textMalpeque" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="156" y="156">
 <x:p>
 Malpeque</x:p>
 </foreignObject>
 <rect height="30" id="rectCharlottetown" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="185" y="153" />
-<foreignObject height="27" id="textCharlottetown" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="187" y="156">
+<foreignObject height="27" id="textCharlottetown" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="187" y="156">
 <x:p>
 Charlottetown</x:p>
 </foreignObject>
 <rect height="30" id="rectCardigan" ry="2" style="stroke:#999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none" width="30" x="216" y="153" />
-<foreignObject height="27" id="textCardigan" style="stroke-width:1px;line-height:125%;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:left;font-size:6;fill:#000000" width="28" x="218" y="156">
+<foreignObject height="27" id="textCardigan" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:left;font-size:6;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" width="28" x="218" y="156">
 <x:p>
 Cardigan</x:p>
 </foreignObject>
-<text id="title" style="stroke-width:1px;line-height:125%;fill:#000000;fill-opacity:1;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:19" x="138.0" y="30">
+<text id="title" style="line-height:125%;font-style:normal;fill-opacity:1;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:19;fill:#000000;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter" x="138.0" y="30">
 NL-PE-NS-NB</text>
 
 
 <path d="M30, 60 L61 60 L61 91 L30 91 L30 60 M61 60 M92 60 L123 60 L123 91 L154 91 L154 60 L185 60 L185 91 L216 91 L216 122 L185 122 L154 122 L123 122 L92 122 L92 91 L92 60 Z" id="squareNL" style="stroke:#000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none;stroke-width:1" />
-<text id="textNL" style="stroke-width:1px;line-height:125%;fill-opacity:0;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:12px;fill:#000000" x="154.0" y="109.1">
+<text id="textNL" style="line-height:125%;font-style:normal;fill-opacity:0;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" x="154.0" y="109.1">
 NL</text>
 <path d="M123, 153 L154 153 L185 153 L216 153 L247 153 L247 184 L216 184 L185 184 L154 184 L123 184 L123 153 Z" id="squarePE" style="stroke:#000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none;stroke-width:1" />
-<text id="textPE" style="stroke-width:1px;line-height:125%;fill-opacity:0;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:12px;fill:#000000" x="185.0" y="171.1">
+<text id="textPE" style="line-height:125%;font-style:normal;fill-opacity:0;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" x="185.0" y="171.1">
 PE</text>
 <path d="M123, 215 L154 215 L185 215 L216 215 L247 215 L247 246 L216 246 L216 277 L216 308 L216 339 L185 339 L154 339 L123 339 L123 308 L154 308 L154 277 L154 246 L123 246 L123 215 Z" id="squareNS" style="stroke:#000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none;stroke-width:1" />
-<text id="textNS" style="stroke-width:1px;line-height:125%;fill-opacity:0;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:12px;fill:#000000" x="185.0" y="261.0">
+<text id="textNS" style="line-height:125%;font-style:normal;fill-opacity:0;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" x="185.0" y="261.0">
 NS</text>
 <path d="M30, 184 L61 184 L92 184 L92 215 L123 215 L123 246 L123 277 L92 277 L92 308 L61 308 L30 308 L30 277 L30 246 L30 215 L30 184 Z" id="squareNB" style="stroke:#000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:none;stroke-width:1" />
-<text id="textNB" style="stroke-width:1px;line-height:125%;fill-opacity:0;word-spacing:0px;font-style:normal;stroke:none;stroke-linejoin:miter;font-family:sans-serif;stroke-opacity:1;stroke-linecap:butt;font-weight:normal;letter-spacing:0px;text-anchor:middle;font-size:12px;fill:#000000" x="61.0" y="230.0">
+<text id="textNB" style="line-height:125%;font-style:normal;fill-opacity:0;stroke:none;stroke-linecap:butt;text-anchor:middle;font-size:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;font-weight:normal;stroke-width:1px;stroke-opacity:1;stroke-linejoin:miter;fill:#000000" x="61.0" y="230.0">
 NB</text>
 </svg>
